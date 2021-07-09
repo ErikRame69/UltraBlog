@@ -7,9 +7,13 @@ El aveces mide 1.69 y otras veces mide 1.73
  
 En esta historia agregamos un commit llamado master 1
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Experimento 1 
+>>>>>>> Experimento 1
 
  Hoy esta estudiando para entrar a Accenture
  y aqui tambien cambiamos unas cosas
