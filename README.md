@@ -2,25 +2,25 @@
 **Table of Contents**
 
 ## ¿Qué vimos en el curso?  
-El curso de platzi **Curso Profesional de Git y Github**  nos dio los conocimiento para iniciar un repositorio desde la terminal,
+El **Curso Profesional de Git y Github** platzi nos dio los conocimiento para iniciar un repositorio desde la terminal.
 A lo largo del curso el instructor Freddy Vega nos ilustro con ejemplos muy bien establecido y claros.
-Así como aprendimos a crear un repositorio local tambien nos enseño a crear un repositorio remoto con Github, a conectar nuestro repositorio local con nuestro repositorio remosto y a guardar los cambios.
+Así como aprendimos a crear un repositorio local tambien nos enseño a crear un repositorio remoto con Github, a conectar nuestro repositorio local con nuestro repositorio remoto y a guardar los cambios.
 Nos explico conceptos como las *Ramas* o *Branches* entre muchos otros.
 
 ### Proyecto Hyper Blog 2.0
 Durante el trascurso del curso trabajamos en un proyecto el cual llamé Ultra Blog 2.0.
-El proyecto se trato de una pagina web muy sencillas, la cual usamos para poner los ejemplos.
+El proyecto se trata de una pagina web muy sencilla, usamos para poner los ejemplos.
 
-### Tecnologias usadas
+## Tecnologias usadas
 Usamos:
 - HTML
 - CSS
 - Windows Subsystem for LInux 2 (WSL2)
 
-#### Algunas anotaciones del curso
-Durante el trascurso del curso trate de tomar apuntes muy esoecificos que me han servido de ayuda en casi de repasar algo que no tenga muy claro o que simplemente necesite recordar.
+### Algunas anotaciones del curso
+Durante el trascurso del curso trate de tomar apuntes muy específicos que me han servido de ayuda en casi de repasar algo que no tenga muy claro o que simplemente necesite recordar.
 Espero les sirvan como a mí. 
-Da click **[Aquí](https://www.notion.so/Curso-Profesional-de-Git-y-Github-23e56b84a5af4382bb129a1b308c1551)** para ir a los apuntes.
+Da click **[sobre este enlace](https://www.notion.so/Curso-Profesional-de-Git-y-Github-23e56b84a5af4382bb129a1b308c1551)** para ir a los apuntes.
 
 ### Comandos Usados en el curso
 - pwd = para ver en qué ruta de nuestro sistema está posicionado el terminal
@@ -118,14 +118,14 @@ Da click **[Aquí](https://www.notion.so/Curso-Profesional-de-Git-y-Github-23e56
 - gitk = ver todo de manera más agradable a la vista
 
 
-### Qué son los archivos READMY.md?
+## Qué son los archivos READMY.md?
 El archivo README.md es el lugar dónde se explica de qué trata el proyecto, cómo utilizarlo y demás información que se considere que se deba conocer antes de utilizar un proyecto.
 .
 Los archivos README son escritos en un lenguaje llamado markdown, por eso la extensión .md, mismo que es un estándar de escritura en diversos sitios (como platzi, como wikipedia y obvio GitHub), ver reglas de markdown.
 .
 Los README.md pueden estar en todas las carpetas, pero el más importante es el que se encuentra en la raíz y ayudan a que los colaboradores sepan información importante del proyecto, módulo o sección, puedes crear cualquier cualquier archivo con la extensión .md pero sólo losn README.md los mostrará por defecto GitHub.
 .
-#### Edita los archivos con extensiones **.md**
+### Edita los archivos con extensiones **.md**
 [Edita aqui archivos .md](https://pandao.github.io/editor.md/en.html#H2%20Header%20(Underline))
 
-### End
+## End
